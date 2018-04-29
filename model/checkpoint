@@ -1,0 +1,2 @@
+model_checkpoint_path: "gan_mnist"
+all_model_checkpoint_paths: "gan_mnist"
